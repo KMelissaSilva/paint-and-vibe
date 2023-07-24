@@ -8,5 +8,22 @@
 
 body {
     font-family: shantell, sans-serif;
-    font-weight: 600;
+    font-weight: 400g;
+    color: #3a3a3a;
+}
+
+/*headings and logo*/
+
+h1,
+h2 {
+    font-family: martel, sans-serif;
+    text-transform: uppercase;
+    letter-spacing: 4px;
+    color: #080808;
+
+}
+
+#logo {
+    float: left;
+    font-size: 280%;
 }
