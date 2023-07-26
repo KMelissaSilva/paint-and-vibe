@@ -68,10 +68,30 @@ h2 {
     overflow: hidden;
 }
 
-/* curious creative*/
+/* About section */
 
 #center {
     width: 60%;
     margin: 0% auto;
-    background-color: rgb(246, 232, 212);
+
 }
+
+p {
+    font-size: large;
+}
+
+/* information section*/
+
+#left-info {
+    padding-top: 30px;
+    width: 33%;
+    float: left;
+}
+
+#right-info {
+    padding-top: 30px;
+    width: 33%;
+    float: right;
+}
+
+#center-info
