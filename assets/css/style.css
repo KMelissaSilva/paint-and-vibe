@@ -25,6 +25,7 @@ h2 {
 #logo {
     float: left;
     font-size: 280%;
+    margin-left: 40px;
 }
 
 /* navigation links*/
@@ -65,5 +66,12 @@ h2 {
     width: 100%;
     background: url(../images/hero-image.jpg) no-repeat center center;
     overflow: hidden;
+}
 
+/* curious creative*/
+
+#center {
+    width: 60%;
+    margin: 0% auto;
+    background-color: rgb(246, 232, 212);
 }
