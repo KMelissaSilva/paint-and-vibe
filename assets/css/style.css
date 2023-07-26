@@ -7,6 +7,22 @@
 }
 
 body {
-    font-family: Signika;
-    font-weight: 600;
+    font-family: 'signika', sans-serif;
+    font-weight: 400;
+    color: #000;
+}
+
+/* headings and logo*/
+
+h1,
+h2 {
+    font-family: 'signika negative', sans-serif;
+    text-transform: uppercase;
+    letter-spacing: 4px;
+    color: #000;
+}
+
+#logo {
+    float: left;
+    font-size: 280%;
 }
