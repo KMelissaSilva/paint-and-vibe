@@ -68,19 +68,18 @@ h2 {
     overflow: hidden;
 }
 
-/* About section */
+/* Main section */
 
-#center {
-    width: 60%;
-    margin: 0% auto;
+#about-us {
+    text-align: center;
+    margin: 30px;
+    font-size: 250%;
+
 
 }
 
-p {
-    font-size: large;
-}
 
-/* information section*/
+/* three images section*/
 
 #left-info {
     padding-top: 30px;
