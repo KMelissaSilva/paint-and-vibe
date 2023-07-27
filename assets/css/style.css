@@ -79,24 +79,33 @@ h2 {
 }
 
 
-/* three images section*/
+/* three images styling section*/
 
-#left-info {
+#left {
     padding-top: 30px;
     width: 33%;
     float: left;
     background-color: antiquewhite;
 }
 
-#right-info {
+#right {
     padding-top: 30px;
     width: 33%;
     float: right;
     background-color: antiquewhite;
 }
 
-#center-info {
+#center {
     width: 33%;
     margin: 0% auto;
     background-color: antiquewhite;
+}
+
+.square-container-one {
+    width: 300px;
+    height: 300px;
+    padding: 30px;
+    border-style: solid;
+    border-color: #000;
+    border-width: 1px;
 }
