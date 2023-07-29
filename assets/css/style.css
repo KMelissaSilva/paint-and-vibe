@@ -78,27 +78,27 @@ h2 {
 
 }
 
-
 /* three images styling section*/
 
 #left {
     padding-top: 30px;
     width: 33%;
     float: left;
-    background-color: antiquewhite;
+    background-color:
 }
 
 #right {
     padding-top: 30px;
     width: 33%;
     float: right;
-    background-color: antiquewhite;
+    background-color:
 }
 
 #center {
+    padding-top: 30px;
     width: 33%;
     margin: 0% auto;
-    background-color: antiquewhite;
+    background-color:
 }
 
 .square-container-one {
@@ -108,4 +108,20 @@ h2 {
     border-style: solid;
     border-color: #000;
     border-width: 1px;
+    margin: 0 auto;
+}
+
+#square-cover-bg {
+    background: url(../images/paint-and-vibe-left.jpg) no-repeat;
+    height: 100%
+}
+
+#square-cover-bg-two {
+    background: url(../images/paint-and-vibe-right.jpeg)no-repeat;
+    height: 100%
+}
+
+#square-cover-bg-three {
+    background: url(../images/paint-and-vibe-center.jpg) no-repeat;
+    height: 100%;
 }
