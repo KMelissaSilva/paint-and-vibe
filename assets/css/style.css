@@ -12,6 +12,11 @@ body {
     color: #000;
 }
 
+p {
+    text-align: center;
+    font-size: large
+}
+
 /* headings and logo*/
 
 h1,
@@ -78,6 +83,7 @@ h2 {
 
 }
 
+
 /* three images styling section*/
 
 #left {
@@ -124,4 +130,12 @@ h2 {
 #square-cover-bg-three {
     background: url(../images/paint-and-vibe-center.jpg) no-repeat;
     height: 100%;
+}
+
+/*. curious creative section*/
+
+#second-heading {
+    text-align: center;
+    margin: 30px;
+
 }
