@@ -79,12 +79,13 @@ h2 {
     text-align: center;
     margin: 30px;
     font-size: 250%;
+    border-bottom: 2px solid #000;
 
 
 }
 
 
-/* three images styling section*/
+/* three images styling section */
 
 #left {
     padding-top: 30px;
@@ -132,10 +133,18 @@ h2 {
     height: 100%;
 }
 
-/*. curious creative section*/
+/* curious creative section */
 
-#second-heading {
+#curious {
     text-align: center;
+    margin: 30px;
+    border-bottom: 1px solid #000;
+}
+
+/* includes section */
+
+#includes {
+    text-align: left;
     margin: 30px;
 
 }
